@@ -26,7 +26,6 @@ The notebook processes and visualizes registration data through the following op
 
 The dataset is sourced from the [India Data Portal - MoRTH Vahan Registration by Vehicle Category](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_vehicle_category-ol-mn-aaa).
 
-## 🛠 Tech Stack
-
+## Notebook
 * **Language:** Python
 * **Libraries:** `pandas`, `matplotlib`, `seaborn`
