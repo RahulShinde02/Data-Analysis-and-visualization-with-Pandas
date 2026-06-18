@@ -23,4 +23,4 @@ This repository demonstrates practical data analysis and visualization technique
 ## ⚙️ Setup Instructions
 1. Download or Clone the repository
 2. Install all Dependencies (Python, pandas, seaboen, matplotlib, plotly)
-3. open and run notebook in jupyter or any other supporting IDE/Editor and run.
+3. open and run notebook in jupyter or any other supporting IDE/Editor.
