@@ -42,7 +42,3 @@ The notebook calculates several derived metrics to quantify grid health:
 * **Grid Risk Profiling:** Identifies chronic failure points by isolating stations with high-frequency zero-generation incidents.
 * **Pareto Deficit Allocation:** Models cumulative grid shortfalls to demonstrate that a small cluster of high-capacity assets contributes to the majority of total supply deficits.
 * **Correlation Modeling:** Employs Pearson matrices to evaluate regional interdependencies and grid-balancing potential.
-
----
-
-Would you like me to help you summarize specific findings from one of these modules, or are you looking for assistance with further data visualization?
